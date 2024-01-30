@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi
 
-<!--
-**ismailbay/ismailbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🔭 I'm looking for a remote freelancing project in the European Union, with the earliest start date around mid-summer.
 
-Here are some ideas to get you started:
+**👍 My top skills:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kotlin
+- Java
+- Apache Kafka
+- Apache Kafka Streams
+- Spring Boot, Spring Cloud
+- Kubernetes
+- System Design
+
+**🤝 Proficient in:**
+- Infrastructure as Code
+- CI/CD Pipelines
+- GitOps
+- DevOps
+- Unixoid environments
+
+**🧐 Basic knowledge of:**
+- Go
+- React
+- Python
+- Nix
+- Scala
+
+**🔎 Interested in learning:**
+- Next.js
+- Elixir
+- Rust
+
+**📫 How to reach me:** [LinkedIn](https://www.linkedin.com/in/ismailbay/)
